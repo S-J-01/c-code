@@ -5,11 +5,8 @@
   "scripts": {
     "dev": "bun run app/main.ts"
   },
-  "dependencies": {
-    "openai": "^6.16.0"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "@types/bun": "latest",
-    "@types/node": "^26.6.6"
+    "@types/bun": "latest"
   }
 }
